@@ -1,0 +1,7 @@
+--dt-order-by=rand
+--dt-rand-seed=42
+--first=2
+--last=5
+-sfl=1
+-aa=3
+odd

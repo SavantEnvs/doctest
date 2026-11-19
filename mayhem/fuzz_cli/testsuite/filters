@@ -1,0 +1,5 @@
+-tc=*case*,templated*
+-ts=alpha
+-sc=sub*
+-r=junit
+xx

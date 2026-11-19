@@ -1,0 +1,9 @@
+-lts
+-lr
+-c
+-cs
+-ns
+-m
+-tce=skip*
+-sce=nested
+-v
